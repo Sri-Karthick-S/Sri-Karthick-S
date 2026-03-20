@@ -2,7 +2,8 @@
 
 **Data Engineer | Melbourne, VIC**
 
-Software engineer transitioning into Data Engineering and AI/ML, with 4+ years of experience across data platform development, backend engineering, and applied machine learning. Master of Data Science from RMIT University (2025).
+Engineer specialising in data and AI/ML, with 4+ years of experience spanning data platform product development, backend systems, and applied machine learning. 
+Master of Data Science from RMIT University (2025).
 
 ---
 
@@ -37,14 +38,6 @@ Software engineer transitioning into Data Engineering and AI/ML, with 4+ years o
 
 ---
 
-## 📜 Certifications In Progress
-
-- 🔵 Microsoft PL-300 — Power BI Data Analyst
-- 🟠 Databricks Data Engineer Associate
-- 🟠 Databricks GenAI Engineer Associate
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔍 [Renewable Electricity Forecasting](https://github.com/Sri-Karthick-S)
@@ -68,5 +61,5 @@ Demand forecasting for pharmaceutical product launches — improved team leaderb
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sri-karthick-selvam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-karthick/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karrthicks10@gmail.com)
