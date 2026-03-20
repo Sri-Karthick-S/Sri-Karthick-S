@@ -1,8 +1,7 @@
 # Hi, I'm Sri Karthick
 
-**Data Engineer | Melbourne, VIC**
+**Data Engineer with 4+ years of experience building data platforms, backend services, and AI-powered pipelines.**
 
-Data Engineer with 4+ years of experience building data platforms, backend services, and AI-powered pipelines. Master of Data Science, RMIT University (2025).
 
 I started out in Electronics & Communication Engineering, discovered a love for coding through microcontroller and Raspberry Pi projects, and landed my first role off the back of a proof-of-concept I built during an internship at ChainSys. Since then I've worked across enterprise data platforms, backend systems, and ML pipelines, and I'm now focused on data engineering and AI/ML in Melbourne's cloud ecosystem.
 
