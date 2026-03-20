@@ -15,19 +15,19 @@ I started out in Electronics & Communication Engineering, discovered a love for 
 **AI / ML:** RAG Pipelines, Vector Search (pgvector), NLP, Time Series Modelling  
 **Backend & Tools:** FastAPI, Flask, Power BI, GitHub Actions, Jenkins
 
-**Certifications in progress:** Microsoft PL-300 · Databricks Data Engineer Associate
+**Certifications in progress:** Microsoft PL-300, Databricks Data Engineer Associate
 
 ---
 
 ## Featured Projects
 
-**Renewable Electricity Forecasting** — [[GitHub](https://github.com/Sri-Karthick-S/forecasting-renewable-electricity)](#)  
+**Renewable Electricity Forecasting** [[GitHub](https://github.com/Sri-Karthick-S/forecasting-renewable-electricity)] 
 Time-series forecasting for renewable energy generation. Evaluated ARIMA and ML approaches using RMSE/MAE with seasonal feature engineering.
 
-**AI Content Moderation App** — [[GitHub](https://github.com/Sri-Karthick-S/moderation-app)](#)  
+**AI Content Moderation App** [[GitHub](https://github.com/Sri-Karthick-S/moderation-app)]
 NLP classification pipeline to detect hate speech and harmful content, served via a FastAPI backend.
 
-**Novartis Datathon** — [[GitHub](https://github.com/Sri-Karthick-S/novartis-datathon)](#)  
+**Novartis Datathon** [[GitHub](https://github.com/Sri-Karthick-S/novartis-datathon)]
 Demand forecasting for pharmaceutical product launches. Improved team leaderboard ranking from 54th to 23rd over 3 days.
 
 ---
