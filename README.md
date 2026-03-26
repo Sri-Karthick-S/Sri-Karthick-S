@@ -17,6 +17,9 @@ I started out in Electronics & Communication Engineering, discovered a love for 
 
 ## Featured Projects
 
+**Behavioural Data Analysis [[GitHub](https://github.com/Sri-Karthick-S/behavioural-data-analysis)]**
+Analyzed relationships between music listening behaviour and self-reported mental health indicators to uncover behavioral patterns and perception gaps.
+
 **Renewable Electricity Forecasting [[GitHub](https://github.com/Sri-Karthick-S/forecasting-renewable-electricity)]** 
 Time-series forecasting for renewable energy generation. Evaluated ARIMA and ML approaches using RMSE/MAE with seasonal feature engineering.
 
