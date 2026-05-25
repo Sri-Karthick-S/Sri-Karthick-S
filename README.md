@@ -123,7 +123,9 @@ Built an interactive R Shiny dashboard analysing 736 survey responses with dynam
 
 **Master of Data Science** - RMIT University, Melbourne (Mar 2024 - Dec 2025)
 
-Grade: Distinction · Focus:Data Engineering, Analytics, Machine Learning
+Grade: Distinction
+
+Focus:Data Engineering, Analytics, Machine Learning
 - Distinction in all subjects, First Semester 2024
 - Best Idea Proposal Commendation, RMIT Industry Experience Program 2024
 
