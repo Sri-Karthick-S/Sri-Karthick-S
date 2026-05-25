@@ -103,15 +103,19 @@ Built an interactive R Shiny dashboard analysing 736 survey responses with dynam
 ## Experience
 
 **Data Engineer with ML Focus (Intern) - WAAL.AI (Apr 2025 - Present)**
+
 Conducted proof-of-concept experimentation using YOLOv8 and Roboflow to analyse CCTV frames and identify objects, contributing to an active computer vision pipeline. Implemented metadata grounding to constrain LLM outputs to detected objects and timestamps. Ran fine-tuning experiments on GPT-4o and GPT-4o-mini evaluating output consistency across structured data formats (JSON, CSV).
 
 **ML Engineer (Intern) - Path (Jul 2024 - Nov 2024)**
+
 Expanded career path database 4.8x (200 to 960+ transitions) by automating scraping pipelines. Built a full RAG system with pgvector and Gemini/OpenAI. Achieved 23% improvement in retrieval accuracy through retrieval optimisation and prompt engineering.
 
 **Senior Engineer - QBurst (May 2022 - Jan 2024)**
+
 Achieved 85% query latency reduction (7s to 1.2s) for a Property Management client. Led schema redesign, Docker containerisation, and CI/CD pipelines using Jenkins and GitHub Actions. Mentored 2 junior engineers.
 
 **Programmer - ChainSys (Aug 2020 - May 2022)**
+
 Built 3+ core features (profiling, cataloguing, lineage, metadata management) for the Data Zense enterprise governance platform handling 3M+ records. Implemented ETL pipelines for aviation, retail, and e-commerce clients.
 
 ---
