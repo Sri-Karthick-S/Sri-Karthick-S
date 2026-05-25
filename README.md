@@ -105,11 +105,11 @@ Built an interactive R Shiny dashboard analysing 736 survey responses with dynam
 | Role | Company | Period |
 |------|---------|--------|
 | Data Engineer (Intern) | WAAL.AI | Apr 2025 - Present |
-| ML Engineer (Intern) | Path | Jul 2024 - Nov 2024 |
+| ML Engineer (Intern) | Path | Jul 2025 - Nov 2025 |
 | Senior Engineer | QBurst | May 2022 - Jan 2024 |
 | Programmer | ChainSys | Aug 2020 - May 2022 |
 
-**WAAL.AI** - Built an end-to-end CCTV video analysis pipeline integrating YOLOv8 with Gemini LLM for structured narrative generation. Implemented metadata grounding to prevent LLM hallucination. Contributed to fine-tuning GPT-4o and GPT-4o-mini for consistent structured data output (JSON, CSV).
+**WAAL.AI** - Conducted proof-of-concept experimentation using YOLOv8 and Roboflow to analyse CCTV frames and identify objects, contributing to an active computer vision pipeline. Implemented metadata grounding to constrain LLM outputs to detected objects and timestamps. Ran fine-tuning experiments on GPT-4o and GPT-4o-mini evaluating output consistency across structured data formats (JSON, CSV).
 
 **Path** - Expanded career path database 4.8x (200 to 960+ transitions) by automating scraping pipelines. Built a full RAG system with pgvector and Gemini/OpenAI. Achieved 23% improvement in retrieval accuracy through retrieval optimisation and prompt engineering.
 
@@ -122,7 +122,8 @@ Built an interactive R Shiny dashboard analysing 736 survey responses with dynam
 ## Education
 
 **Master of Data Science** - RMIT University, Melbourne (Mar 2024 - Dec 2025)
-Distinction · Data Engineering, Analytics, Machine Learning
+
+Grade: Distinction · Focus:Data Engineering, Analytics, Machine Learning
 - Distinction in all subjects, First Semester 2024
 - Best Idea Proposal Commendation, RMIT Industry Experience Program 2024
 
